@@ -1,0 +1,11 @@
+.firstBox{
+    background-color: #323232;
+    width: 120px;
+    height: 120px;
+    border-radius: 20px;
+    color: white;
+    font-size: 80px;
+    text-align: center;
+    line-height: 120px;
+}
+

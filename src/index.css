@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.counterBackground{
+  background-color: black; 
+  text-align: center;
+}
+
+.counterBackground div{
+    display: inline-block;
+    background-color: #323232;
+     border-radius: 20px;
+    font-size: 80px;
+    color: white;
+    height: 150px;
+    width: 100px;
+    line-height: 150px;
+    margin: 5px;
+}
